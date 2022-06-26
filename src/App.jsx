@@ -4,7 +4,7 @@ import loading from "./components/loading";
 
 function App() {
   const { data, isLoading, error } = useFetch(
-    "https://cardvistittapproject-default-rtdb.asia-southeast1.firebasedatabase.app/CardVisitTap/User/2.json"
+    "https://cardvistittapproject-default-rtdb.asia-southeast1.firebasedatabase.app/CardVisitTap/User/1.json"
   );
 
   if (isLoading) return loading();
