@@ -2,6 +2,7 @@
   "name": "card_visit_tap",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://hai1411.github.io/card-visit-tapper/",
   "dependencies": {
     "@atlaskit/avatar": "^21.0.0",
     "@atlaskit/button": "^16.3.2",
